@@ -1,0 +1,33 @@
+.foto_1 {
+    background-size: cover;
+    /* Ekrana sigdirma komutu.*/
+    background-image: url(./img/angelina.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: cover;
+
+}
+
+.foto_2 {
+    background-image: url(./img/kleopatra-asisi.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -2rem;
+    margin-bottom: -1.8rem;
+    
+}
+
+p {
+    font-size: xx-large;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    background-color: black;
+    margin-bottom: -2rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+
+}
